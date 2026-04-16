@@ -1,0 +1,12 @@
+{
+  "name": "evaluate-grant",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.49.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.104.0",
+    "viem": "^2.21.0"
+  }
+}
